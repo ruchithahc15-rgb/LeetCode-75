@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
