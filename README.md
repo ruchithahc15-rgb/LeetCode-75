@@ -8,6 +8,7 @@
 | [0238-product-of-array-except-self](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0334-increasing-triplet-subsequence) |
+| [0486-predict-the-winner](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0724-find-pivot-index) |
@@ -49,6 +50,7 @@
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0486-predict-the-winner) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0486-predict-the-winner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
@@ -118,6 +121,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0486-predict-the-winner) |
 ## Design
 |  |
 | ------- |
@@ -137,4 +141,8 @@
 | [0206-reverse-linked-list](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
