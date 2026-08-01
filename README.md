@@ -148,4 +148,20 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0486-predict-the-winner) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
