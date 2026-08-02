@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0011-container-with-most-water) |
+| [0169-majority-element](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0334-increasing-triplet-subsequence) |
@@ -80,6 +81,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -88,6 +90,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0169-majority-element) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -104,6 +107,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0169-majority-element) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1657-determine-if-two-strings-are-close) |
 ## Matrix
 |  |
@@ -185,4 +189,8 @@
 | [0872-leaf-similar-trees](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
