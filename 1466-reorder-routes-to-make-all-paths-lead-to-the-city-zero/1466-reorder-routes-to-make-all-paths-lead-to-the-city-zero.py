@@ -1,23 +1,18 @@
 class Solution:
+    # Repeatedly traverse list until all connections made. Somewhat of a BFS flavour?
     def minReorder(self, n: int, connections: List[List[int]]) -> int:
-        adj = [[] for _ in range(n)]
-
-        for a, b in connections:
-            adj[a].append((b, 1))
-            adj[b].append((a, 0))
-
-        ans = [0]
-        visited = [False] * n
-
-        def dfs(node):
-            visited[node] = True
-
-            for neighbor, direction in adj[node]:
-                if not visited[neighbor]:
-                    if direction == 1:
-                        ans[0] += 1
-
-                    dfs(neighbor)
-
-        dfs(0)
-        return ans[0]
+        connected = [False] * n
+        connected[0] = True
+        res = 0
+        while connections:
+            to_process = []
+            for a, b in connections:                
+                if connected[a]:
+                    res += 1
+                    connected[b] = True
+                elif connected[b]:
+                    connected[a] = True
+                else:
+                    to_process.append((a, b))
+            connections = to_process[::-1]
+        return res
