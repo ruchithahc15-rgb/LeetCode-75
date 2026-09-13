@@ -18,6 +18,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0877-stone-game) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0392-is-subsequence](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0486-predict-the-winner) |
+| [0746-min-cost-climbing-stairs](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
