@@ -18,6 +18,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0735-asteroid-collision) |
+| [0835-image-overlap](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0994-rotting-oranges) |
@@ -145,6 +146,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2352-equal-row-and-column-pairs) |
