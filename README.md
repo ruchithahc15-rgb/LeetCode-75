@@ -52,6 +52,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2390-removing-stars-from-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0649-dota2-senate) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2542-maximum-subsequence-score](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2542-maximum-subsequence-score) |
 ## Prefix Sum
 |  |
@@ -103,6 +106,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
 |  |
 | ------- |
