@@ -79,6 +79,7 @@
 | [0877-stone-game](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1137-n-th-tribonacci-number) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3871-count-commas-in-range-ii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3871-count-commas-in-range-ii) |
 ## Greedy
 |  |
@@ -95,6 +96,7 @@
 | [0238-product-of-array-except-self](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1004-max-consecutive-ones-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
@@ -106,6 +108,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
 |  |
@@ -335,4 +338,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
