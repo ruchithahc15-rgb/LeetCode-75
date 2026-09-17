@@ -26,6 +26,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1732-find-the-highest-altitude) |
@@ -107,6 +108,7 @@
 | [0877-stone-game](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -116,6 +118,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1207-unique-number-of-occurrences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -139,6 +142,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
@@ -147,6 +151,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Counting
 |  |
