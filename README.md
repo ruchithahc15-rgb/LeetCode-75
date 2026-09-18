@@ -67,6 +67,7 @@
 | [0649-dota2-senate](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2390-removing-stars-from-a-string) |
@@ -89,6 +90,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0649-dota2-senate) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2542-maximum-subsequence-score](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2542-maximum-subsequence-score) |
 ## Prefix Sum
@@ -119,6 +121,7 @@
 | [0169-majority-element](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -131,6 +134,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0215-kth-largest-element-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2300-successful-pairs-of-spells-and-potions) |
