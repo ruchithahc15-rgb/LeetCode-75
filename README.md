@@ -37,6 +37,7 @@
 | [2462-total-cost-to-hire-k-workers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2542-maximum-subsequence-score) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3524-find-x-value-of-array-i) |
 | [3731-find-missing-elements](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -83,6 +84,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1137-n-th-tribonacci-number) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3524-find-x-value-of-array-i) |
 | [3871-count-commas-in-range-ii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3871-count-commas-in-range-ii) |
 ## Greedy
 |  |
@@ -115,6 +117,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
