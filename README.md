@@ -38,6 +38,7 @@
 | [2542-maximum-subsequence-score](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2542-maximum-subsequence-score) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3525-find-x-value-of-array-ii) |
 | [3731-find-missing-elements](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1137-n-th-tribonacci-number) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3525-find-x-value-of-array-ii) |
 | [3871-count-commas-in-range-ii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3871-count-commas-in-range-ii) |
 ## Greedy
 |  |
@@ -356,4 +358,8 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
