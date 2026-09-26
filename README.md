@@ -31,6 +31,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -75,6 +76,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3498-reverse-degree-of-a-string) |
@@ -137,6 +139,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2352-equal-row-and-column-pairs) |
