@@ -72,6 +72,7 @@
 | [0649-dota2-senate](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1657-determine-if-two-strings-are-close) |
@@ -202,6 +203,7 @@
 | [0394-decode-string](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0735-asteroid-collision) |
 | [1096-brace-expansion-ii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
@@ -378,4 +380,8 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3525-find-x-value-of-array-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
