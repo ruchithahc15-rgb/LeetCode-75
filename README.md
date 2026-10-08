@@ -78,6 +78,7 @@
 | [0678-valid-parenthesis-string](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -224,6 +225,7 @@
 | [0735-asteroid-collision](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -416,6 +418,7 @@
 | [0678-valid-parenthesis-string](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
