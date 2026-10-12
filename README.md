@@ -41,6 +41,7 @@
 | [2462-total-cost-to-hire-k-workers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2542-maximum-subsequence-score) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3525-find-x-value-of-array-ii) |
@@ -123,6 +124,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2542-maximum-subsequence-score](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2542-maximum-subsequence-score) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2352-equal-row-and-column-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -370,6 +373,7 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0371-sum-of-two-integers) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
