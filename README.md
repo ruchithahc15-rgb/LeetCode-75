@@ -46,6 +46,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -125,6 +126,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2542-maximum-subsequence-score](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2542-maximum-subsequence-score) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2542-maximum-subsequence-score) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
