@@ -42,6 +42,7 @@
 | [2542-maximum-subsequence-score](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2542-maximum-subsequence-score) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3525-find-x-value-of-array-ii) |
@@ -173,6 +174,7 @@
 | [2336-smallest-number-in-infinite-set](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2352-equal-row-and-column-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -427,6 +429,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3525-find-x-value-of-array-ii) |
 ## Bracket Sequences
 |  |
@@ -449,4 +452,8 @@
 | [0584-find-customer-referee](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
