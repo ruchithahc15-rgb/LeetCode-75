@@ -53,6 +53,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3886-sum-of-sortable-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -435,6 +438,7 @@
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/3886-sum-of-sortable-integers) |
 ## Geometry
 |  |
 | ------- |
