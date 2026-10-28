@@ -113,6 +113,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0050-powx-n) |
 | [0371-sum-of-two-integers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0836-rectangle-overlap) |
@@ -279,6 +280,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0486-predict-the-winner) |
