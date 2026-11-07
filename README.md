@@ -37,6 +37,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1882-process-tasks-using-servers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1882-process-tasks-using-servers) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -458,6 +459,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/0215-kth-largest-element-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ruchithahc15-rgb/LeetCode-75/tree/master/2462-total-cost-to-hire-k-workers) |
